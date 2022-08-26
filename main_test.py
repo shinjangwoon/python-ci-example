@@ -13,4 +13,3 @@ if __name__ == "__main__":
     # python -m unittest discover -p "*.test.py"
     # coverage run --source=./ -m unittest discover -p "*.test.py"
     # coverage xml
-
